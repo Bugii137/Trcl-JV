@@ -1,4 +1,4 @@
-public class Main {
+public class Conc {
     public static void main(String[] args) {
 
         //.length()
@@ -39,7 +39,8 @@ public class Main {
 
 
         //.substring()
-        String w = "Geriinnegi";
+        String w = "Encapsulation";
         System.out.println(w.substring(0,4));
+        System.out.println(w.substring(3));
     }
 }
